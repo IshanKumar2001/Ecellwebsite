@@ -9,10 +9,10 @@
 			<nav id="primary-menu" class="dark">
 				<ul>
 					<li class="current">
-						<a href="index.php">
+						<a href="/">
 							<div>Home</div>
 						</a>
-						<ul>
+						<!-- <ul>
 							<li>
 								<a href="#section-abou">
 									<div>About us</div>
@@ -33,7 +33,7 @@
 									<div>Partners</div>
 								</a>
 							</li>
-						</ul>
+						</ul> -->
 					</li>
 					<li>
 						<a href="#">
@@ -41,75 +41,75 @@
 						</a>
 						<ul>
 							<li>
-								<a href="Start-ups.html">
+								<a href="/initiatives/startups">
 									<div>Start-ups</div>
 								</a>
 							<li>
-								<a href="Portfolios.html">
+								<a href="/initiatives/portfolios">
 									<div>Portfolios</div>
 								</a>
 							</li>
 							<li>
-								<a href="Start-up Service Program.html">
+								<a href="/initiatives/startup-service-program">
 									<div>Start-up Service Program</div>
 								</a>
 							</li>
 							<li>
-								<a href="Campus Ambasssdors.html">
+								<a href="/initiatives/campus-ambassadors">
 									<div>Campus Ambasssdors</div>
 								</a>
 							</li>
 						</ul>
 					</li>
 					<li>
-						<a href="index.html">
+						<a href="#">
 							<div>Events</div>
 						</a>
 						<ul>
 							<li>
-								<a href="Events Calendar.html">
+								<a href="/events/calendar">
 									<div>Events Calendar</div>
 								</a>
 							</li>
 							<li>
-								<a href="E-Conclave.html">
+								<a href="/events/e-conclave">
 									<div>E-Conclave</div>
 								</a>
 							</li>
 							<li>
-								<a href="Industrial Visits.html">
+								<a href="/events/industrial-visits">
 									<div>Industrial Visits</div>
 								</a>
 							</li>
 							<li>
-								<a href="Minor Events.html">
+								<a href="/events/minor-events">
 									<div>Minor Events</div>
 								</a>
 							</li>
 							<li>
-								<a href="Internfair.html">
+								<a href="/events/internfair">
 									<div>Internfair</div>
 								</a>
 							</li>
 							<li>
-								<a href="Innovriti.html">
+								<a href="/events/innovriti">
 									<div>Innovriti</div>
 								</a>
 							</li>
 							<li>
-								<a href="Past Speakers.html">
+								<a href="/events/past-speakers">
 									<div>Past Speakers</div>
 								</a>
 							</li>
 						</ul>
 					</li>
 					<li>
-						<a href="Blogs.html">
+						<a href="/blog">
 							<div>Blogs</div>
 						</a>
 					</li>
 					<li>
-						<a href="Gallery.html">
+						<a href="/gallery">
 							<div>Gallery</div>
 						</a>
 					</li>
@@ -119,29 +119,29 @@
 						</a>
 						<ul>
 							<li>
-								<a href="As MUJ Student.html">
+								<a href="/get-involved/muj-student">
 									<div>As MUJ Student</div>
 								</a>
 							</li>
 							<li>
-								<a href="As non-MUJ Students.html">
+								<a href="/get-involved/non-muj-student">
 									<div>As non-MUJ Students</div>
 								</a>
 							</li>
 							<li>
-								<a href="Alumni.html">
+								<a href="/get-involved/alumni">
 									<div>Alumni</div>
 								</a>
 							</li>
 							<li>
-								<a href="Corporate.html">
+								<a href="/get-involved/corporate">
 									<div>Corporate</div>
 								</a>
 							</li>
 						</ul>
 					</li>
 					<li>
-						<a href="Contact Us.html">
+						<a href="/contact-us">
 							<div>Contact Us</div>
 						</a>
 					</li>
