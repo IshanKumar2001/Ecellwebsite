@@ -714,7 +714,7 @@ Free to drop us a message</span>
 										<div class="fbox-icon">
 											<a href="#"><i class="icon-map-marker2"></i></a>
 										</div>
-										<h3>Our Headquarters<span class="subtitle">Manipal University Jaipur
+										<h3>Meet us at<span class="subtitle">Manipal University Jaipur
 Dehmi Kalan (Near GVK Toll Plaza), Jaipur, RJ
 303007
 </span></h3>
